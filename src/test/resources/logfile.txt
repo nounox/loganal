@@ -1,0 +1,44 @@
+{"id":"scsmbstgra", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495212}
+{"id":"scsmbstgrb", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrc", "state":"FINISHED", "timestamp":1491377495218}
+{"id":"scsmbstgra", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217}
+{"id":"scsmbstgrc", "state":"STARTED", "timestamp":1491377495210}
+{"id":"scsmbstgrb", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb1", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb2", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb3", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb4", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb5", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb6", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb7", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb8", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb9", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb10", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb11", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb12", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb13", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb14", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb15", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb16", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb17", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb18", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb19", "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrb1", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb2", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb3", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb4", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb5", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb6", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb7", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb8", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb9", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb10", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb11", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb12", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb13", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb14", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb15", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb16", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb17", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb18", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
+{"id":"scsmbstgrb19", "state":"FINISHED", "type":"APPLICATION_LOG", "timestamp":1491377495216}
